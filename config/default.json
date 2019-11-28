@@ -3,5 +3,5 @@
     "database":"temp",
     "user":"root",
     "password":"manager",
-    "port":9898
+    "port":9000
 }
